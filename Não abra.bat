@@ -1,0 +1,1 @@
+shutdown -s -f -t: 240 -c "SEU COMPUTADOR FOI INFECTADO, brincadeira, JOKE VIRUS!"
